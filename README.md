@@ -14,6 +14,8 @@ This repository contains a collection of Python exercises covering various progr
 ## Additional Files
 
 - **Hello Test.py**: A simple script demonstrating basic Python syntax.
+- **port_scanner.py**: A Python script for scanning network ports.
+- **ssh.py**: A script for SSH operations using Python.
 
 ## Getting Started
 
